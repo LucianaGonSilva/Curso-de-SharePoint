@@ -1,0 +1,28 @@
+{
+    "sections": [
+        {
+            "displayname": "Dados do Chamado",
+            "fields": [
+                "Título",
+                "Área",
+                "Serviço",
+                "Descrição do chamado"
+            ]
+        },
+        {
+            "displayname": "Detalhe do Chamado",
+            "fields": [
+                "Atendente",
+                "Status do chamado",
+                "SLA",
+                "Data de finalização"
+            ]
+        },
+        {
+            "displayname": "",
+            "fields": [
+                "Tipo de Conteúdo"
+            ]
+        }
+    ]
+}

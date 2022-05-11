@@ -1,0 +1,10 @@
+﻿Formula para validar coluna
+=SE(NÚM.CARACT(Title)<3;FALSO;VERDADEIRO)
+
+
+Fórmula para ocultar ou exibir coluna
+=if([$TemFoto]=='Sim','true', 'false')
+
+
+Link de referência para mais formulas para ocultar
+https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-conditional-show-hide#specify-conditional-formula-to-show-or-hide-columns

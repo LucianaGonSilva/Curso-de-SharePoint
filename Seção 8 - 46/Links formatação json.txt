@@ -1,0 +1,8 @@
+﻿Exemplos de formatação
+https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-configuration
+
+Exemplos de fórmulas
+https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-conditional-show-hide
+
+Ícones fluent UI
+https://developer.microsoft.com/en-us/fluentui#/styles/web/icons

@@ -1,0 +1,5 @@
+Fórmula Data de validade
+formatDateTime(items('Apply_to_each')?['DataValidade'],'yyyy-MM-dd')
+
+Fórmula data de expiração
+formatDateTime(body('Convert_time_zone'),'yyyy-MM-dd')
